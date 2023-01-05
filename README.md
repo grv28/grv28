@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
 <h3 align="center">A 3rd year Computer Science Student</h3>
-<img align="righ" alt="coding" width="400" src="https://ibb.co/6grn0Rm">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🌱 I’m currently learning **Competitive Coding ,Machine Learning, Data Analytics**
 
